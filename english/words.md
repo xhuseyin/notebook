@@ -43,3 +43,9 @@ noun
 
 (the use of) special symbols that you add to writing to separate phrases and sentences to show that something is a question, etc.:
 His letter was completely without punctuation.
+
+#### bizarre
+
+very strange and unusual:
+a bizarre situation
+bizarre behavior
