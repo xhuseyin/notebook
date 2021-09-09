@@ -36,3 +36,10 @@ noun
 
 a short form of a word or phrase:
 "ITV" is the abbreviation for "Independent Television".
+
+#### punctation
+
+noun
+
+(the use of) special symbols that you add to writing to separate phrases and sentences to show that something is a question, etc.:
+His letter was completely without punctuation.
