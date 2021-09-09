@@ -29,3 +29,10 @@ noun
 something such as a mark or symbol used to show the beginning or end of separate elements in a text, computer program, etc.:
 
 This line of code uses the comma as a delimiter.
+
+#### abbreviation
+
+noun 
+
+a short form of a word or phrase:
+"ITV" is the abbreviation for "Independent Television".
