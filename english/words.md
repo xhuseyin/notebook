@@ -22,3 +22,10 @@ noun
 the quality of being amusing or comic, especially as expressed in literature or speech.
 the ability to express humor or make other people laugh.
 
+#### delimiter
+
+noun
+
+something such as a mark or symbol used to show the beginning or end of separate elements in a text, computer program, etc.:
+
+This line of code uses the comma as a delimiter.
