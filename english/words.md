@@ -59,3 +59,15 @@ to face, meet, or deal with a difficult situation or person
 As she left the court, she was confronted by angry crowds who tried to block her way.
 It's an issue we'll have to confront at some point, no matter how unpleasant it is.
 I thought I would stay calm, but when I was confronted with/by the TV camera, I got very nervous.
+
+
+#### vacancy
+
+noun
+
+a space or place that is available to be used:
+a job that no one is doing and is therefore available for someone new to do
+
+We wanted to book a hotel room in July but there were no vacancies.
+These companies have a lot of vacancies (= jobs) to fill, and they pay well.
+The hotel has no vacancies.
