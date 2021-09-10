@@ -49,3 +49,13 @@ His letter was completely without punctuation.
 very strange and unusual:
 a bizarre situation
 bizarre behavior
+
+#### confront
+
+verb 
+
+to face, meet, or deal with a difficult situation or person
+
+As she left the court, she was confronted by angry crowds who tried to block her way.
+It's an issue we'll have to confront at some point, no matter how unpleasant it is.
+I thought I would stay calm, but when I was confronted with/by the TV camera, I got very nervous.
