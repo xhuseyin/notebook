@@ -79,3 +79,12 @@ adjective
 When an action or process is imperative, it is extremely important that it happens or is done.
 
 It is imperative that I speak with him at once.
+
+#### fallback
+
+adjective
+
+A fallback plan or position can be used if other plans do not succeed or other things are not available
+a plan that you can use if your first plan fails
+
+Do we have a fallback position for these negotiations?
