@@ -71,3 +71,11 @@ a job that no one is doing and is therefore available for someone new to do
 We wanted to book a hotel room in July but there were no vacancies.
 These companies have a lot of vacancies (= jobs) to fill, and they pay well.
 The hotel has no vacancies.
+
+#### imperative
+
+adjective
+
+When an action or process is imperative, it is extremely important that it happens or is done.
+
+It is imperative that I speak with him at once.
