@@ -88,3 +88,13 @@ A fallback plan or position can be used if other plans do not succeed or other t
 a plan that you can use if your first plan fails
 
 Do we have a fallback position for these negotiations?
+
+#### propose
+
+verb
+
+propose 3rd person present proposes past tense proposed past participle proposed gerund or present participle proposing
+
+to offer or suggest a possible plan or action for other people to consider, suggest
+
+She proposed a boycott of the meeting.
