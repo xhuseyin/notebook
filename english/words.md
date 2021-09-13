@@ -98,3 +98,15 @@ propose 3rd person present proposes past tense proposed past participle proposed
 to offer or suggest a possible plan or action for other people to consider, suggest
 
 She proposed a boycott of the meeting.
+
+#### fragment
+
+noun
+
+a small part broken or separated off something. an isolated or incomplete part of something.
+
+verb
+
+fragment 3rd person present fragments past tense fragmented past participle fragmented gerund or present participle fragmenting
+
+break or cause to break into fragments.
