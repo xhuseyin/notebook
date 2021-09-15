@@ -110,3 +110,11 @@ verb
 fragment 3rd person present fragments past tense fragmented past participle fragmented gerund or present participle fragmenting
 
 break or cause to break into fragments.
+
+#### imperative
+
+adjective
+
+extremely important or urgent:
+
+It's imperative to act now before the problem gets really serious.
