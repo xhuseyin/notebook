@@ -118,3 +118,7 @@ adjective
 extremely important or urgent:
 
 It's imperative to act now before the problem gets really serious.
+
+noun
+
+an essential or urgent thing.
