@@ -122,3 +122,17 @@ It's imperative to act now before the problem gets really serious.
 noun
 
 an essential or urgent thing.
+
+#### levitate
+
+verb
+
+to (cause to) rise and float in the air without any physical support
+
+And the market magically levitated right back up.
+
+levitation
+
+noun
+
+One of his most famous illusions was levitation, in which he caused his wife to rise from the stage.
