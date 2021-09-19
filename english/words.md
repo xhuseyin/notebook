@@ -136,3 +136,15 @@ levitation
 noun
 
 One of his most famous illusions was levitation, in which he caused his wife to rise from the stage.
+
+fertility
+
+noun
+
+(of animals and plants) the quality of being able to produce young or fruit:
+
+He runs a fertility clinic.
+
+(of land) the quality of producing a large number of good quality crops:
+
+the fertility of the soil
