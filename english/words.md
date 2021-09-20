@@ -160,3 +160,11 @@ She seems to have a natural affinity for/with water.
 a close similarity between two things:
 
 There are several close affinities between the two paintings.
+
+asap
+
+adverb
+
+as soon as possible: used especially for asking someone to do something quickly
+
+I want those files on my desk asap.
