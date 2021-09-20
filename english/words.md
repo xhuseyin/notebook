@@ -148,3 +148,15 @@ He runs a fertility clinic.
 (of land) the quality of producing a large number of good quality crops:
 
 the fertility of the soil
+
+affinity
+
+noun
+
+a liking or sympathy for someone or something, especially because of shared characteristics:
+
+She seems to have a natural affinity for/with water.
+
+a close similarity between two things:
+
+There are several close affinities between the two paintings.
