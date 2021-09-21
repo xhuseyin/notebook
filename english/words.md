@@ -168,3 +168,12 @@ adverb
 as soon as possible: used especially for asking someone to do something quickly
 
 I want those files on my desk asap.
+
+feasible
+
+verb
+
+possible to do easily or conveniently
+
+
+
