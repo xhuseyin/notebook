@@ -1,3 +1,3 @@
-<h3>Things that come to mind</h3>
+# Things that come to mind
 
-<a href="https://github.com/azer" target="_blank">Azer</a> inspired me to create this Repository. I will try to use it actively to be productive
+I will try to use this repository actively to be productive
