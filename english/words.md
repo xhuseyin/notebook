@@ -1,12 +1,12 @@
 # Words
 
-#### cognitive
+## cognitive
 
 adjective
 
 relating to how people think, understand, and learn
 
-#### conform
+## conform
 
 verb 
 
@@ -15,14 +15,14 @@ verb
 comply with rules, standards, or laws.
 (of a person) behave according to socially acceptable conventions or standards.
 
-#### humor
+## humor
 
 noun
 
 the quality of being amusing or comic, especially as expressed in literature or speech.
 the ability to express humor or make other people laugh.
 
-#### delimiter
+## delimiter
 
 noun
 
@@ -30,27 +30,20 @@ something such as a mark or symbol used to show the beginning or end of separate
 
 This line of code uses the comma as a delimiter.
 
-#### abbreviation
+## abbreviation
 
 noun 
 
 a short form of a word or phrase:
 "ITV" is the abbreviation for "Independent Television".
 
-#### punctation
-
-noun
-
-(the use of) special symbols that you add to writing to separate phrases and sentences to show that something is a question, etc.:
-His letter was completely without punctuation.
-
-#### bizarre
+## bizarre
 
 very strange and unusual:
 a bizarre situation
 bizarre behavior
 
-#### confront
+## confront
 
 verb 
 
@@ -60,19 +53,7 @@ As she left the court, she was confronted by angry crowds who tried to block her
 It's an issue we'll have to confront at some point, no matter how unpleasant it is.
 I thought I would stay calm, but when I was confronted with/by the TV camera, I got very nervous.
 
-
-#### vacancy
-
-noun
-
-a space or place that is available to be used:
-a job that no one is doing and is therefore available for someone new to do
-
-We wanted to book a hotel room in July but there were no vacancies.
-These companies have a lot of vacancies (= jobs) to fill, and they pay well.
-The hotel has no vacancies.
-
-#### imperative
+## imperative
 
 adjective
 
@@ -80,7 +61,7 @@ When an action or process is imperative, it is extremely important that it happe
 
 It is imperative that I speak with him at once.
 
-#### fallback
+## fallback
 
 adjective
 
@@ -89,29 +70,7 @@ a plan that you can use if your first plan fails
 
 Do we have a fallback position for these negotiations?
 
-#### propose
-
-verb
-
-propose 3rd person present proposes past tense proposed past participle proposed gerund or present participle proposing
-
-to offer or suggest a possible plan or action for other people to consider, suggest
-
-She proposed a boycott of the meeting.
-
-#### fragment
-
-noun
-
-a small part broken or separated off something. an isolated or incomplete part of something.
-
-verb
-
-fragment 3rd person present fragments past tense fragmented past participle fragmented gerund or present participle fragmenting
-
-break or cause to break into fragments.
-
-#### imperative
+## imperative
 
 adjective
 
@@ -119,11 +78,7 @@ extremely important or urgent:
 
 It's imperative to act now before the problem gets really serious.
 
-noun
-
-an essential or urgent thing.
-
-#### levitate
+## levitate
 
 verb
 
@@ -137,7 +92,7 @@ noun
 
 One of his most famous illusions was levitation, in which he caused his wife to rise from the stage.
 
-fertility
+## fertility
 
 noun
 
@@ -149,7 +104,7 @@ He runs a fertility clinic.
 
 the fertility of the soil
 
-affinity
+## affinity
 
 noun
 
@@ -161,7 +116,7 @@ a close similarity between two things:
 
 There are several close affinities between the two paintings.
 
-asap
+## asap
 
 adverb
 
@@ -169,11 +124,8 @@ as soon as possible: used especially for asking someone to do something quickly
 
 I want those files on my desk asap.
 
-feasible
+## feasible
 
 verb
 
 possible to do easily or conveniently
-
-
-
