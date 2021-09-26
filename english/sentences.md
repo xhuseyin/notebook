@@ -5,4 +5,5 @@
 * we optimistically argued.
 * I am getting a deja vu.
 * What comes into your mind?
-* it will last 3 days/forever. 
+* it will last 3 days/forever.
+* People tend to quit along the way.
