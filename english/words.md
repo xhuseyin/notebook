@@ -15,13 +15,6 @@ verb
 comply with rules, standards, or laws.
 (of a person) behave according to socially acceptable conventions or standards.
 
-## humor
-
-noun
-
-the quality of being amusing or comic, especially as expressed in literature or speech.
-the ability to express humor or make other people laugh.
-
 ## delimiter
 
 noun
@@ -36,12 +29,6 @@ noun
 
 a short form of a word or phrase:
 "ITV" is the abbreviation for "Independent Television".
-
-## bizarre
-
-very strange and unusual:
-a bizarre situation
-bizarre behavior
 
 ## confront
 
@@ -69,28 +56,6 @@ A fallback plan or position can be used if other plans do not succeed or other t
 a plan that you can use if your first plan fails
 
 Do we have a fallback position for these negotiations?
-
-## imperative
-
-adjective
-
-extremely important or urgent:
-
-It's imperative to act now before the problem gets really serious.
-
-## levitate
-
-verb
-
-to (cause to) rise and float in the air without any physical support
-
-And the market magically levitated right back up.
-
-levitation
-
-noun
-
-One of his most famous illusions was levitation, in which he caused his wife to rise from the stage.
 
 ## fertility
 
@@ -128,4 +93,4 @@ I want those files on my desk asap.
 
 verb
 
-possible to do easily or conveniently
+able to be made, done, or achieved:
