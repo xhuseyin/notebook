@@ -1,6 +1,6 @@
 # javascript
 
-## n11.com Technical Assessment for Vue.js Developer
+## Technical Assessment for Vue.js Developer
 
 1. What is vue?
 2. What is mixins in vue?
