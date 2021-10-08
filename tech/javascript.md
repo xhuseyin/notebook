@@ -12,3 +12,9 @@
 8. Return the number of elements that are smaller than the target number
 9. Change the first and last character
 10. Find the absolute difference
+
+## Eloquent JavaScript
+
+[Eloquent JavaScript](https://eloquentjavascript.net/) 
+This is a book about JavaScript, programming, and the wonders 
+of the digital.
