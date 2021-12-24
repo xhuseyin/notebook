@@ -59,3 +59,10 @@ Phrase
 deliberately
 
 Kayla hates losing, but she gets even more annoyed if you let her win on purpose.
+
+## workaround
+
+noun
+
+a method for overcoming a problem or limitation in a program or system.
+
