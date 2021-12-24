@@ -1,11 +1,5 @@
 # Words
 
-## cognitive
-
-adjective
-
-relating to how people think, understand, and learn
-
 ## conform
 
 verb 
@@ -14,31 +8,6 @@ verb
 
 comply with rules, standards, or laws.
 (of a person) behave according to socially acceptable conventions or standards.
-
-## delimiter
-
-noun
-
-something such as a mark or symbol used to show the beginning or end of separate elements in a text, computer program, etc.:
-
-This line of code uses the comma as a delimiter.
-
-## abbreviation
-
-noun 
-
-a short form of a word or phrase:
-"ITV" is the abbreviation for "Independent Television".
-
-## confront
-
-verb 
-
-to face, meet, or deal with a difficult situation or person
-
-As she left the court, she was confronted by angry crowds who tried to block her way.
-It's an issue we'll have to confront at some point, no matter how unpleasant it is.
-I thought I would stay calm, but when I was confronted with/by the TV camera, I got very nervous.
 
 ## imperative
 
@@ -56,18 +25,6 @@ A fallback plan or position can be used if other plans do not succeed or other t
 a plan that you can use if your first plan fails
 
 Do we have a fallback position for these negotiations?
-
-## fertility
-
-noun
-
-(of animals and plants) the quality of being able to produce young or fruit:
-
-He runs a fertility clinic.
-
-(of land) the quality of producing a large number of good quality crops:
-
-the fertility of the soil
 
 ## affinity
 
@@ -94,3 +51,11 @@ I want those files on my desk asap.
 verb
 
 able to be made, done, or achieved:
+
+## on purpose
+
+Phrase
+
+deliberately
+
+Kayla hates losing, but she gets even more annoyed if you let her win on purpose.
